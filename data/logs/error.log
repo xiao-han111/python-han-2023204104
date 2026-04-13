@@ -1,0 +1,227 @@
+2026-04-13 10:55:39,384 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 10:55:39,846 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_105539
+2026-04-13 10:57:15,713 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 10:57:15,752 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_105715
+2026-04-13 10:58:37,824 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 10:58:37,865 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_105837
+2026-04-13 10:58:55,456 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 10:58:55,494 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_105855
+2026-04-13 10:59:15,128 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 10:59:15,166 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_105915
+2026-04-13 11:20:26,535 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:20:26,574 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112026
+2026-04-13 11:26:26,663 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:26:26,702 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112626
+2026-04-13 11:27:06,008 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:27:06,048 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112706
+2026-04-13 11:28:15,768 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:28:15,809 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112815
+2026-04-13 11:28:42,152 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:28:42,190 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112842
+2026-04-13 11:29:47,792 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:29:47,833 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_112947
+2026-04-13 11:37:17,894 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:37:30,903 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_113730
+2026-04-13 11:37:41,073 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_113730.json
+2026-04-13 11:37:56,503 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:37:56,544 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_113756
+2026-04-13 11:41:39,631 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:41:39,671 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114139
+2026-04-13 11:43:09,775 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:43:09,816 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114309
+2026-04-13 11:44:04,704 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:44:04,741 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114404
+2026-04-13 11:44:33,953 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:44:33,993 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114433
+2026-04-13 11:44:58,336 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:44:58,374 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114458
+2026-04-13 11:45:05,751 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:45:05,791 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114505
+2026-04-13 11:45:22,049 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:45:22,087 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114522
+2026-04-13 11:46:48,345 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:46:48,386 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114648
+2026-04-13 11:46:54,167 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:46:54,207 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_114654
+2026-04-13 11:50:31,296 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:50:31,335 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115031
+2026-04-13 11:51:58,136 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:51:58,175 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115158
+2026-04-13 11:53:47,456 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:53:47,507 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115347
+2026-04-13 11:54:43,648 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:54:43,687 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115443
+2026-04-13 11:55:13,735 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:55:13,773 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115513
+2026-04-13 11:55:48,328 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:55:48,367 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115548
+2026-04-13 11:57:08,017 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:57:08,057 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115708
+2026-04-13 11:57:59,368 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:57:59,407 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115759
+2026-04-13 11:58:26,558 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_115759.json
+2026-04-13 11:58:27,843 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 11:58:27,844 - root - ERROR - NoneType: None
+
+2026-04-13 11:58:29,920 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 11:58:29,920 - root - ERROR - NoneType: None
+
+2026-04-13 11:58:32,329 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 11:58:32,329 - root - ERROR - NoneType: None
+
+2026-04-13 11:58:49,680 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:58:49,719 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115849
+2026-04-13 11:58:55,968 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 11:58:56,007 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_115856
+2026-04-13 12:00:31,712 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 12:00:31,750 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120031
+2026-04-13 12:00:58,883 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120031.json
+2026-04-13 12:00:59,434 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120031.json
+2026-04-13 12:00:59,436 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120059
+2026-04-13 12:01:19,564 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120059.json
+2026-04-13 12:01:19,565 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120119
+2026-04-13 12:01:29,473 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120119.json
+2026-04-13 12:01:29,475 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120129
+2026-04-13 12:01:44,283 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120129.json
+2026-04-13 12:01:45,003 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120129.json
+2026-04-13 12:01:45,004 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120145
+2026-04-13 12:01:46,121 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120146
+2026-04-13 12:01:49,067 - root - ERROR - UI Exception: ModuleNotFoundError: No module named 'src'
+2026-04-13 12:01:49,067 - root - ERROR - NoneType: None
+
+2026-04-13 12:02:17,005 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120146.json
+2026-04-13 12:02:20,718 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 12:02:20,757 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120220
+2026-04-13 12:02:34,882 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120220.json
+2026-04-13 12:02:35,586 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120220.json
+2026-04-13 12:02:35,587 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120235
+2026-04-13 12:02:40,491 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120235.json
+2026-04-13 12:02:41,353 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120235.json
+2026-04-13 12:02:41,354 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120241
+2026-04-13 12:02:50,122 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_120241.json
+2026-04-13 12:02:50,123 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_120250
+2026-04-13 12:04:17,356 - root - ERROR - UI Exception: ModuleNotFoundError: No module named 'src'
+2026-04-13 12:04:17,356 - root - ERROR - NoneType: None
+
+2026-04-13 12:04:52,707 - root - ERROR - UI Exception: ModuleNotFoundError: No module named 'src'
+2026-04-13 12:04:52,707 - root - ERROR - NoneType: None
+
+2026-04-13 12:08:26,011 - root - ERROR - UI Exception: ModuleNotFoundError: No module named 'src'
+2026-04-13 12:08:26,011 - root - ERROR - NoneType: None
+
+2026-04-13 12:08:56,793 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 12:08:56,793 - root - ERROR - NoneType: None
+
+2026-04-13 13:09:23,857 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:09:23,918 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_130923
+2026-04-13 13:09:53,370 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_130923.json
+2026-04-13 13:09:54,861 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_130923.json
+2026-04-13 13:09:54,862 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_130954
+2026-04-13 13:10:07,098 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_130954.json
+2026-04-13 13:10:15,242 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_130954.json
+2026-04-13 13:10:15,244 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131015
+2026-04-13 13:10:25,771 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131015.json
+2026-04-13 13:10:28,627 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131015.json
+2026-04-13 13:10:28,629 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131028
+2026-04-13 13:10:41,954 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131028.json
+2026-04-13 13:10:47,275 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131028.json
+2026-04-13 13:10:47,923 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131028.json
+2026-04-13 13:10:47,924 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131047
+2026-04-13 13:10:52,706 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131047.json
+2026-04-13 13:10:52,708 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131052
+2026-04-13 13:11:00,188 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131052.json
+2026-04-13 13:11:05,185 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 13:11:05,185 - root - ERROR - NoneType: None
+
+2026-04-13 13:11:10,823 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131052.json
+2026-04-13 13:12:33,048 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:12:33,090 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131233
+2026-04-13 13:12:39,475 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131233.json
+2026-04-13 13:13:02,898 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131233.json
+2026-04-13 13:13:02,899 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131302
+2026-04-13 13:13:32,236 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131302.json
+2026-04-13 13:13:33,028 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131302.json
+2026-04-13 13:13:33,029 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131333
+2026-04-13 13:13:45,866 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131333.json
+2026-04-13 13:14:05,116 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131333.json
+2026-04-13 13:14:13,476 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131333.json
+2026-04-13 13:14:13,477 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131413
+2026-04-13 13:14:59,141 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131413.json
+2026-04-13 13:15:00,909 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131413.json
+2026-04-13 13:15:00,911 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131500
+2026-04-13 13:15:13,011 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131500.json
+2026-04-13 13:15:13,011 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131513
+2026-04-13 13:15:18,499 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131513.json
+2026-04-13 13:15:19,818 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131513.json
+2026-04-13 13:15:19,819 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131519
+2026-04-13 13:15:27,770 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131519.json
+2026-04-13 13:15:27,771 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131527
+2026-04-13 13:15:53,513 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:15:53,552 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131553
+2026-04-13 13:16:08,793 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131553.json
+2026-04-13 13:16:18,203 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131553.json
+2026-04-13 13:16:19,923 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131553.json
+2026-04-13 13:16:19,923 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_131619
+2026-04-13 13:16:27,986 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131619.json
+2026-04-13 13:31:59,816 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:31:59,854 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133159
+2026-04-13 13:32:08,363 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133159.json
+2026-04-13 13:32:09,267 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133159.json
+2026-04-13 13:32:09,268 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133209
+2026-04-13 13:32:16,530 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133209.json
+2026-04-13 13:32:29,627 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133209.json
+2026-04-13 13:32:32,563 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133209.json
+2026-04-13 13:32:32,564 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133232
+2026-04-13 13:32:37,219 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133232.json
+2026-04-13 13:32:38,122 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133232.json
+2026-04-13 13:32:38,125 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133238
+2026-04-13 13:34:07,956 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_131619.json
+2026-04-13 13:34:28,795 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133238.json
+2026-04-13 13:34:28,796 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133428
+2026-04-13 13:34:46,654 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133428.json
+2026-04-13 13:34:50,596 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133428.json
+2026-04-13 13:34:50,597 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133450
+2026-04-13 13:34:58,772 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133450.json
+2026-04-13 13:35:00,658 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_133450.json
+2026-04-13 13:35:00,660 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_133500
+2026-04-13 13:41:22,832 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:41:30,497 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:42:05,000 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:42:24,144 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:43:55,328 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:43:55,371 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_134355
+2026-04-13 13:44:10,844 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134355.json
+2026-04-13 13:44:11,867 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134355.json
+2026-04-13 13:44:21,981 - root - ERROR - UI Exception: KeyboardInterrupt: 
+2026-04-13 13:44:21,981 - root - ERROR - NoneType: None
+
+2026-04-13 13:44:31,289 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:44:31,330 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_134431
+2026-04-13 13:44:42,226 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134431.json
+2026-04-13 13:44:45,738 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134431.json
+2026-04-13 13:44:45,739 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_134445
+2026-04-13 13:44:50,178 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134445.json
+2026-04-13 13:44:59,026 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134445.json
+2026-04-13 13:44:59,563 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134445.json
+2026-04-13 13:44:59,564 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_134459
+2026-04-13 13:45:10,042 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134459.json
+2026-04-13 13:49:51,024 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:49:51,068 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_134951
+2026-04-13 13:50:01,570 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134951.json
+2026-04-13 13:50:09,259 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_134951.json
+2026-04-13 13:50:09,260 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135009
+2026-04-13 13:54:23,633 - PID_Simulator - INFO - 用户 admin 登录成功
+2026-04-13 13:54:23,674 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135423
+2026-04-13 13:54:26,810 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135423.json
+2026-04-13 13:54:29,138 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135423.json
+2026-04-13 13:54:29,139 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135429
+2026-04-13 13:54:32,571 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135429.json
+2026-04-13 13:54:37,370 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135429.json
+2026-04-13 13:54:37,371 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135437
+2026-04-13 13:54:42,691 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135437.json
+2026-04-13 13:54:42,692 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135442
+2026-04-13 13:54:46,250 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135442.json
+2026-04-13 13:54:50,026 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135442.json
+2026-04-13 13:54:50,028 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135450
+2026-04-13 13:54:52,794 - PID_Simulator - INFO - 数据会话保存成功: D:\SimControl\data\history_data\history_20260413_135450.json
+2026-04-13 13:54:52,794 - PID_Simulator - INFO - 开始新的数据记录会话: 20260413_135452
